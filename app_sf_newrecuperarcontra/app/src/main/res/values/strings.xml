@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app_sf</string>
+
+    <string name="recuperacontra">¿Olvidaste contraseña?</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="label_from">Direccion Origen</string>
+    <string name="label_to">Direccion destino</string>
+    <string name="btn_change">Modificar</string>
+
+
+</resources>
